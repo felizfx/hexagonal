@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://adm:y5HqpECrmuZnWi2X@ac-nhwxxae-shard-00-00.tzyaw9d.mongodb.net:27017,ac-nhwxxae-shard-00-01.tzyaw9d.mongodb.net:27017,ac-nhwxxae-shard-00-02.tzyaw9d.mongodb.net:27017/hexagonal?ssl=true&replicaSet=atlas-ny8y9i-shard-0&authSource=admin&retryWrites=true&w=majority
+
+springdoc:
+  swagger-ui:
+    path: /
